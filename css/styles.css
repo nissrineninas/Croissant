@@ -1,14 +1,43 @@
 
-a{
+a 
+{
+    color: darkgoldenrod;
+    display: inline;
     text-decoration: none;
-color: purple;
+
 }
 
 body
 {
-background-color: black;    
+    background-color: beige;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: 900;
+    margin: 0% auto;
+    padding-top: 50px;
+    text-align: center;
+
+}
+
+div {
+   text-align: center
 }
 h1{
-    color: blue;
+    color: #661614;
+}
+
+img {
+    display: block;
+    margin: 0% auto;
+}
+
+p {
+    max-width: 500px;
     text-align: center;
+
+}
+
+.container
+{
+        padding-top: 50px;
+
 }
