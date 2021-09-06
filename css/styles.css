@@ -39,6 +39,11 @@ p {
 
 }
 
+small
+{
+    padding-top: 100px;
+}
+
 .container
 {
         padding-top: 50px;
