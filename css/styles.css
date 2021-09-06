@@ -1,51 +1,38 @@
-
-a 
-{
-    color: darkgoldenrod;
-    display: inline;
-    text-decoration: none;
-
+a {
+  color: darkgoldenrod;
+  display: inline;
+  text-decoration: none;
 }
 
-body
-{
-    background-color: beige;
-    font-family: 'Urbanist', sans-serif;
-    font-weight: 900;
-    padding-top: 50px;
-    text-align: center;
-
+body {
+  background-color: beige;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 900;
+  padding-top: 50px;
+  text-align: center;
 }
 
 div {
-   text-align: center
+  text-align: center;
 }
-h1{
-    color: #661614;
+h1 {
+  color: #661614;
 }
 
 img {
-    display: block;
-    margin: 0% auto;
-    padding-bottom: 50px;
+  display: block;
+  margin: 0% auto;
+  padding-bottom: 50px;
 }
 
 p {
-    line-height: 1.5rem;
-    margin: 0% auto;
-    max-block-size: 500px;
-    max-width: 500px;
-    text-align: center;
-
+  line-height: 1.5rem;
+  margin: 0% auto;
+  max-block-size: 500px;
+  max-width: 500px;
+  text-align: center;
 }
 
-small
-{
-    padding-top: 100px;
-}
-
-.container
-{
-        padding-top: 50px;
-
+.container {
+  padding-top: 50px;
 }
